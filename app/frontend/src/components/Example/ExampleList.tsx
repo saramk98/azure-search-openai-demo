@@ -9,10 +9,10 @@ export type ExampleModel = {
 
 const EXAMPLES: ExampleModel[] = [
     {
-        text: "Do I run a  Pre-Flight Inspections for a F-16?",
-        value: "Do I run a  Pre-Flight Inspections for a F-16?"
+        text: "Can I get second pair of glasses with my plan?",
+        value: "Can I get second pair of glasses with my plan?"
     },
-    { text: "What is my maximum coverage period?", value: "What is my maximum coverage period?" },
+    { text: "Does my vision plan cover lenses?", value: "Does my vision plan cover lenses?" },
     { text: "How do I file a claim?", value: "How do I file a claim?" }
 ];
 
