@@ -13,7 +13,7 @@ const EXAMPLES: ExampleModel[] = [
         value: "Do I run a  Pre-Flight Inspections for a F-16?"
     },
     { text: "What is my maximum coverage period?", value: "What is my maximum coverage period?" },
-    { text: "How to file a claim?", value: "How to file a claim?" }
+    { text: "How do I file a claim?", value: "How do I file a claim?" }
 ];
 
 interface Props {
